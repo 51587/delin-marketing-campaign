@@ -4,7 +4,7 @@ type Messages = Record<string, string>
 
 const zh: Messages = {
   // Header
-  "app.title": "营销活动策划工作台",
+  "app.title": "小钟的营销活动策划工作台",
   "app.new": "新建",
   "app.history": "历史",
 
@@ -45,7 +45,7 @@ const zh: Messages = {
   "status.ready": "就绪",
 
   // Start Panel
-  "start.title": "创建营销活动方案",
+  "start.title": "你好呀!请创建营销活动方案",
   "start.name_placeholder": "活动名称（如：618大促、新品发布）",
   "start.brief_placeholder": "简要描述你的营销需求（产品/服务、目标、预算范围等）",
   "start.examples": "快速示例",
